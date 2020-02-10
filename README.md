@@ -4,7 +4,7 @@
 <p>To build:</p>
 <p>1) $ mvn compile</p>
 <p>To run:</p>
-<p>2) $ mvn spring:boot:run</p>
+<p>2) $ mvn spring-boot:run</p>
 <p>To terminate:</p>
 <p>3) kill it</p>
 <p>To test:</p>
